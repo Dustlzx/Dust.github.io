@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ae as o}from"./chunks/framework.2vZN1hQT.js";const _=JSON.parse('{"title":"梯子","description":"","frontmatter":{},"headers":[],"relativePath":"other/魔法.md","filePath":"other/魔法.md"}'),n={name:"other/魔法.md"};function s(i,a,l,h,c,d){return t(),r("div",null,a[0]||(a[0]=[o("",11)]))}const u=e(n,[["render",s]]);export{_ as __pageData,u as default};

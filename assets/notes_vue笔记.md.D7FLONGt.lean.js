@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as l}from"./chunks/framework.2vZN1hQT.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"notes/vue笔记.md","filePath":"notes/vue笔记.md"}'),p={name:"notes/vue笔记.md"};function t(h,s,k,e,E,d){return n(),a("div",null,s[0]||(s[0]=[l("",159)]))}const y=i(p,[["render",t]]);export{g as __pageData,y as default};
