@@ -1,1 +1,0 @@
-import{_ as a,c as s,o as l,ae as e}from"./chunks/framework.2vZN1hQT.js";const c=JSON.parse('{"title":"面试题","description":"","frontmatter":{},"headers":[],"relativePath":"other/面试题.md","filePath":"other/面试题.md"}'),n={name:"other/面试题.md"};function t(h,i,r,p,o,d){return l(),s("div",null,i[0]||(i[0]=[e("",29)]))}const u=a(n,[["render",t]]);export{c as __pageData,u as default};
